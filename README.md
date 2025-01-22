@@ -14,7 +14,7 @@ This essay examines key ideas—covering recursive self-improvement, the computi
 
 A central theme in discussions on AI singularity is recursive self-improvement. Once an AI system can modify and enhance its own code—improving efficiency, reducing bugs, or creating entirely new functions—each iteration may multiply the next system’s capabilities [4][9].  
 
-Your summary underscores how this could lead to an intelligence explosion. However, while large language models (LLMs) and other AI architectures exhibit “emergent capabilities,” they do not yet engage in open-ended, self-directed code modifications. Their training processes are still largely under human control [3]. As a result, the lofty notion of a self-perpetuating feedback loop, though theoretically plausible, remains unproven in current implementations of AI.
+However, while large language models (LLMs) and other AI architectures exhibit “emergent capabilities,” they do not yet engage in open-ended, self-directed code modifications. Their training processes are still largely under human control [3]. As a result, the lofty notion of a self-perpetuating feedback loop, though theoretically plausible, remains unproven in current implementations of AI.
 
 ### The Role of Architectures and Paradigms
 
@@ -26,7 +26,7 @@ Transformer-based systems, reinforcement learning agents, and evolutionary appro
 
 ### Unlocking Latent Hardware
 
-Another crucial idea from your summary is the “computing overhang.” This concept posits that once near-human-level AI algorithms are discovered, they can tap into the vast, pre-existing computational resources—cloud data centers, GPUs, specialized AI chips, etc.—waiting to be leveraged [3][4]. In other words, the hardware arms race might serve as a force multiplier, rapidly boosting any breakthrough in software.
+“Computing Overhang.” This concept posits that once near-human-level AI algorithms are discovered, they can tap into the vast, pre-existing computational resources—cloud data centers, GPUs, specialized AI chips, etc.—waiting to be leveraged [3][4]. In other words, the hardware arms race might serve as a force multiplier, rapidly boosting any breakthrough in software.
 
 ### Why Raw Power Alone Isn’t Enough
 
@@ -66,7 +66,7 @@ Even in the absence of a near-future singularity, current AI technologies alread
 
 ### From Coding Every Detail to High-Level Guidance
 
-Your summary highlights a significant transition: software engineers now spend less time writing every line of logic and more time “steering” or fine-tuning large-scale models [3]. This shift is partly driven by the complexity of modern AI architectures—millions (or billions) of parameters that are impossible to handcraft.
+Software engineers now spend less time writing every line of logic and more time “steering” or fine-tuning large-scale models [3]. This shift is partly driven by the complexity of modern AI architectures—millions (or billions) of parameters that are impossible to handcraft.
 
 ### Implications for Future AI
 
