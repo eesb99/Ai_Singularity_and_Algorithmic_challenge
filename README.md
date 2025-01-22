@@ -1,0 +1,1 @@
+# Ai_Singularity_and_Algorithmic_challenge
